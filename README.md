@@ -1,1 +1,1 @@
-# AI4-Trading
+# AI for Trading
